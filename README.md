@@ -6,5 +6,7 @@ There are no memory functionality, any information gained is lost when the app i
 The project was made in Eclipse, using Java 16 and JUnit 5. 
 
 Author: Viktor Svensson
+
 E-mail: wiktor_sv@hotmail.com
+
 Twitter: @Celies11
